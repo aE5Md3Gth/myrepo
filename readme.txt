@@ -1,4 +1,4 @@
-こんにちは SourceTree
+﻿こんにちは SourceTree
 改行をLFに変更
 
 <!doctype html>
@@ -12,3 +12,5 @@
 <body>
 </body>
 </html>
+
+ブランチを作成
